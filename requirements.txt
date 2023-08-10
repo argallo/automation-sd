@@ -1,4 +1,17 @@
 GitPython
+astunparse
+blendmodes
+accelerate
+basicsr
+fonts
+font-roboto
+gfpgan
+gradio==3.30.0
+numpy
+omegaconf
+opencv-contrib-python
+requests
+piexif
 Pillow
 accelerate
 
